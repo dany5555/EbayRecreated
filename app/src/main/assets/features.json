@@ -1,0 +1,34 @@
+{
+  "Featured": [
+    {
+      "dealImageUrl": "https://i.ebayimg.com/images/g/CQoAAOSwGXNc77Pe/s-l400.jpg",
+      "dealTextView": "Up to 40% Off Apple",
+      "dealDescription": "Save on the brand grads want."
+    },
+    {
+      "dealImageUrl": "https://i.ebayimg.com/images/g/K0oAAOSw0kVc77fI/s-l400.jpg",
+      "dealTextView": "Up to 30% Off Cameras and More",
+      "dealDescription": "Help your grad capture every moment."
+    },
+    {
+      "dealImageUrl": "https://i.ebayimg.com/images/g/gGAAAOSwLZNc77sk/s-l400.jpg",
+      "dealTextView": "Laptops Under $399",
+      "dealDescription": "Power up with HP, Apple, and more."
+    },
+    {
+      "dealImageUrl": "https://i.ebayimg.com/images/g/7VEAAOSwogpc772H/s-l400.jpg",
+      "dealTextView": "High Score. Low Prices",
+      "dealDescription": "Game consoles & more, up to 30% off."
+    },
+    {
+      "dealImageUrl": "https://i.ebayimg.com/images/g/HPAAAOSwfDpc78AV/s-l400.jpg",
+      "dealTextView": "Amp Up Your Grad's Entertainment",
+      "dealDescription": "TV and Audio, up to 30% off."
+    },
+    {
+      "dealImageUrl": "https://i.ebayimg.com/images/g/nekAAOSwWR1c78IA/s-l400.jpg",
+      "dealTextView": "Give Them Complete Control",
+      "dealDescription": "Up to 30% off smart home devices."
+    }
+  ]
+}

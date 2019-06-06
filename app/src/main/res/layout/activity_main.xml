@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/nestedScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <include layout="@layout/register_sign_in_buttons_layout"/>
+
+            <include layout="@layout/summer_deals_layout"/>
+            <include layout="@layout/daily_deals_header_layout"/>
+            <include layout="@layout/daily_deals_layout"/>
+
+
+            <include layout="@layout/trending_header_layout"/>
+            <include layout="@layout/trending_layout"/>
+
+            <include layout="@layout/featured_sales_and_events_header_layout"/>
+            <include layout="@layout/featured_sales_and_events_layout"/>
+
+            <include layout="@layout/frame_of_mind_layout"/>
+            <include layout="@layout/glasses_layout"/>
+
+
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+
+
+
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

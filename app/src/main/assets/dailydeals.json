@@ -1,0 +1,28 @@
+{
+  "DailyDeals": [
+    {
+      "productImageUrl": "https://i.ebayimg.com/images/g/yg4AAOSwUR9ccFxS/s-l400.jpg",
+      "productName": "Prince & Spring UltraSoft30ct Ultra Soft Premium Bath Tissue",
+      "productPrice": "$16.99",
+      "productTimeAvailable": "17d 1h"
+    },
+    {
+      "productImageUrl": "https://i.ebayimg.com/images/g/T2oAAOSwX~9c8YbZ/s-l225.jpg",
+      "productName": "Nature's Basket Crunchy Peanut Butter 16 oz Jar (Pack of 2) ",
+      "productPrice": "$21.94",
+      "productTimeAvailable": "25d 1h"
+    },
+    {
+      "productImageUrl": "https://i.ebayimg.com/images/g/FXcAAOSw-0xYdADP/s-l225.jpg",
+      "productName": "Gillette Mach3 Refill Cartridge Razor Blades for Mach 3, 8 Count ",
+      "productPrice": "$12.49",
+      "productTimeAvailable": "26d 2h"
+    },
+    {
+      "productImageUrl": "https://i.ebayimg.com/images/g/3KAAAOSwSxpc9ryQ/s-l225.jpg",
+      "productName": "Bodum Java French Press Coffee Maker - 34 oz.",
+      "productPrice": "$21.02",
+      "productTimeAvailable": "13d 4h"
+    }
+  ]
+}

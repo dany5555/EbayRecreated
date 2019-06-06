@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/product_imageview"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+    <TextView
+        android:id="@+id/product_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="New Mens Under Armour Muscle  Golf"
+        android:lines="2"
+        android:ellipsize="end"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="@+id/product_imageview"
+        app:layout_constraintStart_toStartOf="@+id/product_imageview"
+        app:layout_constraintTop_toBottomOf="@+id/product_imageview" />
+
+    <TextView
+        android:id="@+id/product_price"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="$16.99"
+        android:textStyle="bold"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="@+id/product_imageview"
+        app:layout_constraintStart_toStartOf="@+id/product_imageview"
+        app:layout_constraintTop_toBottomOf="@+id/product_name" />
+
+    <TextView
+        android:id="@+id/product_time_available"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="17d 2h"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="@+id/product_imageview"
+        app:layout_constraintStart_toStartOf="@+id/product_imageview"
+        app:layout_constraintTop_toBottomOf="@+id/product_price" />
+</android.support.constraint.ConstraintLayout>
